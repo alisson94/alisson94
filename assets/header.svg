@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Álisson Santana</title><desc id="desc">Software, automação e ideias em construção. Cenário em pixel art com computador, robô e plantas.</desc>
+<rect width="1200" height="300" rx="12" fill="#141e2b"/>
+<g fill="#263445"><rect x="36" y="35" width="4" height="4"/><rect x="1160" y="35" width="4" height="4"/><rect x="36" y="261" width="4" height="4"/><rect x="1160" y="261" width="4" height="4"/></g>
+<text x="64" y="65" font-family="monospace" font-size="14" letter-spacing="3" fill="#b6d98d">PLAYER 01 / ALISSON94</text>
+<text x="60" y="138" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="56" fill="#f3f0e7">Álisson Santana</text>
+<text x="64" y="182" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#bcc9d7">Software, automação e ideias em construção.</text>
+<text x="64" y="242" font-family="monospace" font-size="13" fill="#9babbd">ENGENHARIA DE COMPUTAÇÃO · IME · RIO DE JANEIRO</text>
+<g shape-rendering="crispEdges" transform="translate(760 36) scale(4)">
+<path d="M0 44H86V49H0Z" fill="#6d9464"/><path d="M3 49H83V55H8V52H3Z" fill="#31483f"/>
+<path d="M12 29H50V33H12ZM15 33H18V44H15ZM44 33H47V44H44Z" fill="#8e6a50"/>
+<path d="M20 6H44V24H20Z" fill="#3b4c64"/><path d="M22 8H42V22H22Z" fill="#b6d98d"/>
+<path d="M25 12H29V14H25ZM25 16H29V18H25ZM29 14H31V16H29ZM33 17H39V19H33Z" fill="#334e4b"/>
+<path d="M29 24H35V28H29ZM25 28H39V29H25Z" fill="#8295a9"/><path d="M21 32H40V34H21Z" fill="#c8b99e"/>
+<path d="M57 23H74V36H57ZM60 36H71V42H60ZM57 40H62V44H57ZM69 40H74V44H69Z" fill="#a8bdcc"/>
+<path d="M59 26H72V32H59Z" fill="#253b48"/><path d="M61 27H63V29H61ZM68 27H70V29H68Z" fill="#b6d98d"/>
+<path d="M65 18H67V23H65ZM64 17H68V19H64Z" fill="#d9a171"/><path d="M52 32H56V39H52ZM75 32H79V39H75Z" fill="#748fa4"/>
+<path d="M2 35H10V44H2Z" fill="#bf8663"/><path d="M4 23H7V35H4ZM1 27H4V30H1ZM7 25H10V28H7Z" fill="#b6d98d"/>
+<path d="M78 35H84V44H78Z" fill="#bf8663"/><path d="M80 26H82V35H80ZM77 29H80V31H77ZM82 27H85V29H82Z" fill="#b6d98d"/>
+<path d="M53 5H55V7H53ZM70 9H72V11H70ZM82 16H84V18H82Z" fill="#d9a171"/>
+</g></svg>

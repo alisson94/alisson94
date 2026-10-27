@@ -1,21 +1,34 @@
-# 💫 About Me:
-🎓 Computer Engineering student at IME (Instituto Militar de Engenharia), Rio de Janeiro<br><br>🧠 Director of the Intelligence Division at RoboIME, managing Small Size League Robot software project<br><br><br>
+![Álisson Santana — software, automação e um pouco de pixel art](assets/header.svg)
 
+**Português** · [English](README.en.md)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alisson94&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alisson94&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson94&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Olá, eu sou o Álisson.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alisson94&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+Estudo **Engenharia de Computação no Instituto Militar de Engenharia (IME)**, no Rio de Janeiro. Gosto de entender como as coisas funcionam e transformar essa curiosidade em software — de sistemas web e automações a experimentos com jogos.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alisson94&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Tenho experiência com desenvolvimento web e chatbots com IA, pesquisa de desempenho em Python e programação de robôs na **RoboIME**, onde também liderei a equipe de programação.
 
----
-[![](https://visitcount.itsvg.in/api?id=alisson94&icon=0&color=0)](https://visitcount.itsvg.in)
+Busco oportunidades de **estágio em desenvolvimento de software**, com interesse em backend, aplicações web e automação.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[LinkedIn](https://www.linkedin.com/in/alisson-nunes-santana/) · [Meus repositórios](https://github.com/alisson94?tab=repositories)
+
+### Projetos para explorar
+
+| Projeto | O que você encontra | Tecnologias |
+| :--- | :--- | :--- |
+| [Verificador de relatórios de compras](https://github.com/alisson94/verificador-relatorios-compras) | Conferência de indicadores a partir de CSV, validação de dados, cálculos com `Decimal` e testes automatizados. | Python |
+| [Monitor de cotações](https://github.com/alisson94/desafio-asset-monitor) | Aplicação de console que consulta uma API de cotações e implementa alertas por e-mail com limites configuráveis. | C#, .NET, HTTP, SMTP |
+| [Biblioteca de manhwas](https://github.com/alisson94/biblioteca-manhwas) | Catálogo pessoal com cadastro de obras, upload de capas e acompanhamento de capítulos. | JavaScript, Node.js, Express, EJS, MongoDB |
+| [Tank Game Multiplayer](https://github.com/alisson94/tankGameMultiplayer) | Experimento de jogo no navegador com troca de eventos de movimento e disparo entre clientes e servidor. | JavaScript, Node.js, Socket.IO |
+
+### Ferramentas que uso
+
+- **Web:** TypeScript, JavaScript, React, Next.js e Node.js.
+- **Backend e dados:** Python, Java, PHP, C#, SQL, MySQL, MongoDB e Supabase.
+- **Automação e engenharia:** n8n, APIs, Git, Docker, C++ e LabVIEW.
+
+### Além dos sistemas web
+
+Na RoboIME, trabalhei na lógica de defesa dos robôs da categoria Small Size League. Na iniciação científica com o **Speedupy**, escrevi scripts para testar e comparar o desempenho de programas científicos.
+
+Nos projetos pessoais, jogos são meu espaço para experimentar: renderização, interação e comunicação em tempo real.
