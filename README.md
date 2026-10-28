@@ -10,7 +10,8 @@ Tenho experiência com desenvolvimento web e chatbots com IA, pesquisa de desemp
 
 Busco oportunidades de **estágio em desenvolvimento de software**, com interesse em backend, aplicações web e automação.
 
-[LinkedIn](https://www.linkedin.com/in/alisson-nunes-santana/) · [Meus repositórios](https://github.com/alisson94?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/alisson-nunes-santana/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisson94?tab=repositories)
 
 ### Projetos para explorar
 
@@ -21,11 +22,29 @@ Busco oportunidades de **estágio em desenvolvimento de software**, com interess
 | [Biblioteca de manhwas](https://github.com/alisson94/biblioteca-manhwas) | Catálogo pessoal com cadastro de obras, upload de capas e acompanhamento de capítulos. | JavaScript, Node.js, Express, EJS, MongoDB |
 | [Tank Game Multiplayer](https://github.com/alisson94/tankGameMultiplayer) | Experimento de jogo no navegador com troca de eventos de movimento e disparo entre clientes e servidor. | JavaScript, Node.js, Socket.IO |
 
-### Ferramentas que uso
+### 🚀 Linguagens e ferramentas
 
-- **Web:** TypeScript, JavaScript, React, Next.js e Node.js.
-- **Backend e dados:** Python, Java, PHP, C#, SQL, MySQL, MongoDB e Supabase.
-- **Automação e engenharia:** n8n, APIs, Git, Docker, C++ e LabVIEW.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black)
+
+Também trabalho com **SQL** e integração de **APIs**.
 
 ### Além dos sistemas web
 
